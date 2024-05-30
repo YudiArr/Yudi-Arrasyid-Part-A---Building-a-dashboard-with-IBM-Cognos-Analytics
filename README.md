@@ -151,4 +151,5 @@ Are the results correct?
 You will not be judged on:
 
 Your English language, including spelling or grammatical mistakes.
-https://ap1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FPeer-Graded%2BAssignment%253A%2BPart%2BA%2B-%2BBuilding%2BA%2BDashboard%2BWith%2BIBM%2BCognos%2BAnalytics&action=view&mode=dashboard&subView=model0000018fc7c59cc6_00000000
+
+<iframe src="https://ap1.ca.analytics.ibm.com/bi/?perspective=dashboard&amp;pathRef=.my_folders%2FPeer-Graded%2BAssignment%253A%2BPart%2BA%2B-%2BBuilding%2BA%2BDashboard%2BWith%2BIBM%2BCognos%2BAnalytics&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;mode=dashboard&amp;subView=model0000018fc7c59cc6_00000000" width="320" height="200" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
